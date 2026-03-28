@@ -1,4 +1,4 @@
-# 🎧 Environmental Sound Classification (CEG3004)
+# 🎧 Audio Classification (CEG3004)
 
 ## 📌 Project Overview
 
