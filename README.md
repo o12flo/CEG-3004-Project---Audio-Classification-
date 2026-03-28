@@ -191,8 +191,8 @@ Execute all cells in order (Step 1 → Step 10).
 
 ### 3. Outputs
 
-* `GROUP_ID_model.joblib`
-* `GROUP_ID_predictions.csv`
+* `Pr_1_model.joblib`
+* `Pr_1_predictions.csv`
 
 ---
 
@@ -204,8 +204,8 @@ Execute all cells in order (Step 1 → Step 10).
 ├── notebook.ipynb
 ├── requirements.txt
 └── outputs/
-    ├── GROUP_ID_model.joblib
-    └── GROUP_ID_predictions.csv
+    ├── Pr_1_model.joblib
+    └── Pr_1_predictions.csv
 ```
 
 ---
